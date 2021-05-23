@@ -1,0 +1,67 @@
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+ {
+    box-sizing: border-box;
+   
+}
+section {
+    display: block;
+}
+body {
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color:cyan;
+}
+
+html {
+    font-size: 10px;
+
+    font-family: sans-serif;
+    text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+:after, :before {
+    box-sizing: border-box;
+  
+}
+
+    
+
+
+#contact iframe {
+    
+    width: 100%;
+}
+
+.travel_mainDiv img {
+
+width: 650px;
+height: 350px;
+text-align: center;c
+
+   
+   
+}
+
+title {
+    
+    text-decoration-color: darkblue;
+}
+
+#campus lis {
+    
+    align-items: center;
+    text-align: center;
+}
